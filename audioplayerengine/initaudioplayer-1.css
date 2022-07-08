@@ -325,7 +325,7 @@
 
 #amazingaudioplayer-1 .amazingaudioplayer-tracklist-arrow-next {
 	position: absolute;
-	bottom: 5px;
+	bottom: -15px;
 	left: 50%;
 	margin-left: 16px;
 	background-color: #000;
@@ -336,6 +336,8 @@
 
 	border-radius: 0px 5px;
 	border: 1px solid white;
+	
+	margin-bottom: -30px;
 
 }
 
